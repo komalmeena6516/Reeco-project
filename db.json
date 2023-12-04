@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "Product_name": "Chicken Breast Fillet, Boneless MatuumaMarinated 6 Ounce Raw",
+            "Brand": "Hormel Black Labelmary",
+            "Price": "60.67",
+            "Quantity": "0",
+            "Total": "0",
+            "Status": "",
+            "image": "./src/images/Avocado Hass.jpg"
+        },
+        {
+            "id": "2",
+            "Product_name": "Chicken Breast Fillet, Boneless MatuumaMarinated 6 Ounce Raw",
+            "Brand": "Hormel Black Labelmary",
+            "Price": "60.67",
+            "Quantity": "0",
+            "Total": "0",
+            "Status": "",
+            "image": "./src/images/Avocado Hass.jpg"
+        },
+        {
+            "id": "3",
+            "Product_name": "Chicken Breast Fillet, Boneless MatuumaMarinated 6 Ounce Raw",
+            "Brand": "Hormel Black Labelmary",
+            "Price": "60.67",
+            "Quantity": "0",
+            "Total": "0",
+            "Status": "",
+            "image": "./src/images/Avocado Hass.jpg"
+        },
+        {
+            "id": "4",
+            "Product_name": "Chicken Breast Fillet, Boneless MatuumaMarinated 6 Ounce Raw,",
+            "Brand": "Hormel Black Labelmary",
+            "Price": "60.67",
+            "Quantity": "0",
+            "Total": "0",
+            "Status": "",
+            "image": "./src/images/Avocado Hass.jpg"
+        },
+        {
+            "id": "5",
+            "Product_name": "Chicken Breast Fillet, Boneless MatuumaMarinated 6 Ounc",
+            "Brand": "Hormel Black Labelmary",
+            "Price": "60.67",
+            "Quantity": "0",
+            "Total": "0",
+            "Status": "",
+            "image": "./src/images/Avocado Hass.jpg"
+        },
+        {
+            "id": "6",
+            "Product_name": "Chicken Breast Fillet, Boneless MatuumaMarinated ",
+            "Brand": "Hormel Black Labelmary",
+            "Price": "60.67",
+            "Quantity": "0",
+            "Total": "0",
+            "Status": "",
+            "image": "./src/images/Avocado Hass.jpg"
+        },
+        {
+            "id": "1",
+            "Product_name": "Chicken Breast Fillet, Boneless MatuumaMarinated 6 Ounce Raw, Invivid",
+            "Brand": "Hormel Black Labelmary",
+            "Price": "60.67",
+            "Quantity": "0",
+            "Total": "0",
+            "Status": "",
+            "image": "./src/images/Avocado Hass.jpg"
+        }
+    ]
+}

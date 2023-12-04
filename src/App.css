@@ -1,38 +1,95 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+ .navbar{
+  width: 100%;
+  background-color: #33006F;
+  color: aliceblue;
+ }
+ .navbox{
+  margin: 10px 100px;  
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
+ }
+
+ ul{
+  list-style: none;
+  display:flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+ }
+
+ li{
+  padding: 5px 15px;
+  font-size: 21px;
+    font-weight: 300;
+ }
+p.logo{
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+.right-side li{
+  padding: 5px 15px;
+}
+.cart-icon{
+  margin-top: 10px;
+}
+.down-arrow{
+  margin-top: 10px;
+}
+
+.table-box{
+  margin: 10px 60px;  
+  padding: 20px;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+.last-col{
+  background-color: rgb(214, 215, 237);
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 32px 17px !important
+}
+.status{
+  width: 150px !important;
+  background-color: rgb(214, 215, 237);
+}
+.greentick{
+  color: green !important;
+} 
+.redcross{
+  color: red !important;
+}
+.modal-head{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.yes{
+  border: none;
+  background-color: aliceblue;
+  font-size: 17.5px;
+  font-weight: 700;
+}
+.no{
+  border: none;
+  background-color: aliceblue;
+  font-size: 17.5px;
+  font-weight: 700;
+}
+
+.statuskagreentext{
+  background-color: green;
   color: white;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 15px;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.statusUrgenttext{
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 15px;
 }
