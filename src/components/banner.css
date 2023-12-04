@@ -1,0 +1,40 @@
+.banner{
+    box-shadow: 0 7px 16px -6px black;
+    margin-bottom: 2rem;
+}
+.data p{
+    font-size: 21px;
+}
+.underline{
+    text-decoration: underline;
+}
+.rightarw{
+    padding-top: 7px;
+}
+.orderNum{
+    font-size: 25px !important;
+    font-weight: 900;
+}
+.order{
+    padding: 15px 0;
+}
+.buttons{
+    display: flex;
+}
+.buttons button{
+font-size: 15px;
+padding: 8px 15px;
+font-weight: 600;
+background-color: white;
+border: 2px solid green;
+border-radius: 20px;
+margin: 0 10px;
+}
+.back{
+color: green;
+}
+.approve-order{
+    background-color: green !important;
+    color: white;
+    margin-right: 0;
+}
